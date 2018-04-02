@@ -1,0 +1,11 @@
+C:\Users\Stewart Coombs\Projects\SoftWrox\Revisio\Core\SoftWrox.Revisio.Core.Model\bin\Debug\netstandard2.0\SoftWrox.Revisio.Core.Model.deps.json
+C:\Users\Stewart Coombs\Projects\SoftWrox\Revisio\Core\SoftWrox.Revisio.Core.Model\bin\Debug\netstandard2.0\SoftWrox.Revisio.Core.Model.dll
+C:\Users\Stewart Coombs\Projects\SoftWrox\Revisio\Core\SoftWrox.Revisio.Core.Model\bin\Debug\netstandard2.0\SoftWrox.Revisio.Core.Model.pdb
+C:\Users\Stewart Coombs\Projects\SoftWrox\Revisio\Core\SoftWrox.Revisio.Core.Model\bin\Debug\netstandard2.0\SoftWrox.Core.Model.dll
+C:\Users\Stewart Coombs\Projects\SoftWrox\Revisio\Core\SoftWrox.Revisio.Core.Model\bin\Debug\netstandard2.0\SoftWrox.Core.Model.pdb
+C:\Users\Stewart Coombs\Projects\SoftWrox\Revisio\Core\SoftWrox.Revisio.Core.Model\obj\Debug\netstandard2.0\SoftWrox.Revisio.Core.Model.csproj.CoreCompileInputs.cache
+C:\Users\Stewart Coombs\Projects\SoftWrox\Revisio\Core\SoftWrox.Revisio.Core.Model\obj\Debug\netstandard2.0\SoftWrox.Revisio.Core.Model.AssemblyInfoInputs.cache
+C:\Users\Stewart Coombs\Projects\SoftWrox\Revisio\Core\SoftWrox.Revisio.Core.Model\obj\Debug\netstandard2.0\SoftWrox.Revisio.Core.Model.AssemblyInfo.cs
+C:\Users\Stewart Coombs\Projects\SoftWrox\Revisio\Core\SoftWrox.Revisio.Core.Model\obj\Debug\netstandard2.0\SoftWrox.Revisio.Core.Model.csproj.CopyComplete
+C:\Users\Stewart Coombs\Projects\SoftWrox\Revisio\Core\SoftWrox.Revisio.Core.Model\obj\Debug\netstandard2.0\SoftWrox.Revisio.Core.Model.dll
+C:\Users\Stewart Coombs\Projects\SoftWrox\Revisio\Core\SoftWrox.Revisio.Core.Model\obj\Debug\netstandard2.0\SoftWrox.Revisio.Core.Model.pdb
